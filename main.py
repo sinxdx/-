@@ -1,4 +1,2 @@
-import requests
-
 if __name__ == "__main__":
-    print("Lily White")
+    print("开发分支")
